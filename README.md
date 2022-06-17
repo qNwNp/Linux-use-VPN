@@ -1,7 +1,6 @@
-# Linux-
-Linux 使用 VPN 的方法总结
+# Linux 使用 VPN 的方法总结
 
-####思路1
+#### 思路1
 [Mygod/VPNHotspot: Share your VPN connection over hotspot or repeater! (root required)](https://github.com/Mygod/VPNHotspot)
 **需要一个获取了root权限的安卓手机**
 1. 手机端连接VPN
